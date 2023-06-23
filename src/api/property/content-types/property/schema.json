@@ -1,0 +1,79 @@
+{
+  "kind": "collectionType",
+  "collectionName": "properties",
+  "info": {
+    "singularName": "property",
+    "pluralName": "properties",
+    "displayName": "property",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "filters": {
+      "displayName": "filters",
+      "type": "component",
+      "repeatable": false,
+      "component": "global.filters"
+    },
+    "property_details": {
+      "displayName": "property_details",
+      "type": "component",
+      "repeatable": false,
+      "component": "property.property-details"
+    },
+    "property_location_details": {
+      "displayName": "property_location_details",
+      "type": "component",
+      "repeatable": false,
+      "component": "property.property-location-details"
+    },
+    "property_amount_details": {
+      "displayName": "property_amount_details",
+      "type": "component",
+      "repeatable": false,
+      "component": "property.property-amount-details"
+    },
+    "amenities": {
+      "displayName": "amenities",
+      "type": "component",
+      "repeatable": false,
+      "component": "property.amenities"
+    },
+    "property_photos_videos": {
+      "displayName": "property_photos_videos",
+      "type": "component",
+      "repeatable": false,
+      "component": "property.property-photos-videos"
+    },
+    "property_additional_information": {
+      "displayName": "property_description",
+      "type": "component",
+      "repeatable": false,
+      "component": "property.property-description"
+    },
+    "property_description": {
+      "type": "text"
+    },
+    "previous_occupancy": {
+      "type": "text"
+    },
+    "who_will_show_the_property": {
+      "type": "text"
+    },
+    "i_want_to_get_my_property_painted": {
+      "type": "text"
+    },
+    "i_want_to_get_my_property_cleaned": {
+      "type": "text"
+    },
+    "secondary_number": {
+      "type": "text"
+    },
+    "primary_number": {
+      "type": "text"
+    }
+  }
+}

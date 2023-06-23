@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_property_longitude_latitudes",
+  "info": {
+    "displayName": "longitude_latitude",
+    "icon": "file"
+  },
+  "options": {},
+  "attributes": {
+    "latitude": {
+      "type": "text"
+    },
+    "longitude": {
+      "type": "text"
+    }
+  }
+}

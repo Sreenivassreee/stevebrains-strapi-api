@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_global_filters",
+  "info": {
+    "displayName": "filters",
+    "icon": "cup"
+  },
+  "options": {},
+  "attributes": {
+    "property_main_city": {
+      "type": "text"
+    },
+    "property_service_available_type": {
+      "type": "enumeration",
+      "enum": [
+        "Rent",
+        "Buy",
+        "Commertcial"
+      ]
+    },
+    "property_type": {
+      "type": "enumeration",
+      "enum": [
+        "Full House",
+        "Pg/Hostel",
+        "Flatmates"
+      ]
+    },
+    "BHK_type": {
+      "type": "enumeration",
+      "enum": [
+        "RK_1",
+        "BHK_1",
+        "BHK_2",
+        "BHK_3",
+        "BHK_4",
+        "BHK_4_Plues"
+      ]
+    }
+  }
+}

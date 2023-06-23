@@ -1,0 +1,43 @@
+{
+  "collectionName": "components_property_property_amount_details",
+  "info": {
+    "displayName": "property_amount_details",
+    "icon": "eye"
+  },
+  "options": {},
+  "attributes": {
+    "expected_rent": {
+      "type": "text"
+    },
+    "rent_negotiable": {
+      "type": "boolean",
+      "default": true
+    },
+    "maintenance_extra": {
+      "type": "boolean",
+      "default": false
+    },
+    "monthly_maintenance": {
+      "type": "text"
+    },
+    "deposit": {
+      "type": "text"
+    },
+    "lease_duration": {
+      "type": "text"
+    },
+    "lockin_period": {
+      "type": "text"
+    },
+    "deposit_negotiable": {
+      "type": "boolean",
+      "default": true
+    },
+    "available_from": {
+      "type": "date"
+    },
+    "ideal_for": {
+      "type": "text"
+    }
+  }
+}

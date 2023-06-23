@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_property_amenities",
+  "info": {
+    "displayName": "amenities",
+    "icon": "crop"
+  },
+  "options": {},
+  "attributes": {
+    "power_backup": {
+      "type": "text"
+    },
+    "lift": {
+      "type": "text"
+    },
+    "parking": {
+      "type": "text"
+    },
+    "washroom": {
+      "type": "text"
+    },
+    "water_storage_facility": {
+      "type": "text"
+    },
+    "security": {
+      "type": "text"
+    },
+    "no_of_parking_slots_available": {
+      "type": "text"
+    },
+    "add_directions_tip_for_your_tenants": {
+      "type": "text"
+    }
+  }
+}

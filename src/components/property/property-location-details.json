@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_property_property_location_details",
+  "info": {
+    "displayName": "property_location_details",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "country": {
+      "type": "text"
+    },
+    "city": {
+      "type": "text"
+    },
+    "locality": {
+      "type": "text"
+    },
+    "street_area": {
+      "type": "text"
+    },
+    "landmark": {
+      "type": "text"
+    },
+    "longitude_latitude": {
+      "displayName": "longitude_latitude",
+      "type": "component",
+      "repeatable": false,
+      "component": "property.longitude-latitude"
+    }
+  }
+}

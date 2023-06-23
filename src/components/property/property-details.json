@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_property_property_details",
+  "info": {
+    "displayName": "property_details",
+    "icon": "bold"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "exact_address": {
+      "type": "text"
+    },
+    "property_type": {
+      "type": "text"
+    },
+    "building_type": {
+      "type": "text"
+    },
+    "age_of_property": {
+      "type": "text"
+    },
+    "floor": {
+      "type": "text"
+    },
+    "total_floor": {
+      "type": "text"
+    },
+    "super_built_up_area": {
+      "type": "text"
+    },
+    "furnishing": {
+      "type": "text"
+    },
+    "other_features": {
+      "type": "text"
+    }
+  }
+}
